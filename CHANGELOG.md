@@ -493,3 +493,4 @@
 - 2026-02-10: Expand section
 - 2026-10-28: Add note
 - 2026-02-24: Add detail
+- 2026-12-27: Typo fix
