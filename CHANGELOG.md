@@ -509,3 +509,4 @@
 - 2026-07-26: Update guide
 - 2026-05-24: Minor update
 - 2026-01-13: Expand section
+- 2026-12-24: Polish docs
