@@ -481,3 +481,4 @@
 - 2025-03-16: Typo fix
 - 2025-08-11: Small fix
 - 2026-10-21: Expand section
+- 2026-12-26: Add note
