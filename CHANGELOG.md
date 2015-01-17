@@ -39,3 +39,4 @@
 - 2015-07-04: Clarify section
 - 2015-08-08: Fix example
 - 2015-06-16: Add note
+- 2015-01-17: Update guide
