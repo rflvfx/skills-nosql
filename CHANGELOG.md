@@ -60,3 +60,4 @@
 - 2015-11-20: Add detail
 - 2015-08-04: Refine text
 - 2015-02-03: Update guide
+- 2015-01-19: Update notes
