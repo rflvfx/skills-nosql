@@ -74,3 +74,4 @@
 - 2015-07-11: Add remark
 - 2015-11-04: Add detail
 - 2015-03-16: Clarify section
+- 2015-01-20: Minor update
