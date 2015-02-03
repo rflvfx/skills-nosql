@@ -59,3 +59,4 @@
 - 2015-12-07: Typo fix
 - 2015-11-20: Add detail
 - 2015-08-04: Refine text
+- 2015-02-03: Update guide
