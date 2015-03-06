@@ -9,3 +9,4 @@
 - 2015-08-17: Add detail
 - 2015-12-15: Add remark
 - 2015-01-17: Clarify section
+- 2015-03-06: Review content
