@@ -42,3 +42,4 @@
 - 2015-01-17: Update guide
 - 2015-12-15: Typo fix
 - 2015-12-15: Refine text
+- 2015-03-08: Clarify section
