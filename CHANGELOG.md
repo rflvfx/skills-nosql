@@ -49,3 +49,4 @@
 - 2015-03-11: Adjust content
 - 2015-07-03: Update notes
 - 2015-10-11: Improve docs
+- 2015-04-01: Typo fix
