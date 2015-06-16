@@ -38,3 +38,4 @@
 - 2015-09-20: Add remark
 - 2015-07-04: Clarify section
 - 2015-08-08: Fix example
+- 2015-06-16: Add note
