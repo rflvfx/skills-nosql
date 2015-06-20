@@ -51,3 +51,4 @@
 - 2015-10-11: Improve docs
 - 2015-04-01: Typo fix
 - 2015-02-13: Expand section
+- 2015-06-20: Small fix
