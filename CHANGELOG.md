@@ -65,3 +65,4 @@
 - 2015-01-26: Review content
 - 2015-05-14: Polish docs
 - 2015-02-18: Update guide
+- 2015-06-23: Add note
