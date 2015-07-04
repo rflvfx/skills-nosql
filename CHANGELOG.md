@@ -36,3 +36,4 @@
 - 2025-07-07: Add gossip protocol notes
 - 2026-06-19: Update secondary indexes reference
 - 2015-09-20: Add remark
+- 2015-07-04: Clarify section
