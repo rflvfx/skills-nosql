@@ -45,3 +45,4 @@
 - 2015-03-08: Clarify section
 - 2015-08-13: Adjust content
 - 2015-12-14: Update notes
+- 2015-07-19: Clarify section
