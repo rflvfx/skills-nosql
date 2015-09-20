@@ -35,3 +35,4 @@
 - 2025-02-20: Update merkle trees reference
 - 2025-07-07: Add gossip protocol notes
 - 2026-06-19: Update secondary indexes reference
+- 2015-09-20: Add remark
