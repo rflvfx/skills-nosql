@@ -67,3 +67,4 @@
 - 2015-02-18: Update guide
 - 2015-06-23: Add note
 - 2015-03-21: Typo fix
+- 2015-10-09: Refine text
