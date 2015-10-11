@@ -48,3 +48,4 @@
 - 2015-07-19: Clarify section
 - 2015-03-11: Adjust content
 - 2015-07-03: Update notes
+- 2015-10-11: Improve docs
