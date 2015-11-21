@@ -54,3 +54,4 @@
 - 2015-06-20: Small fix
 - 2015-12-28: Adjust content
 - 2015-08-10: Clarify section
+- 2015-11-21: Add note
