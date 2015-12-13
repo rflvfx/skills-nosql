@@ -12,3 +12,4 @@
 - 2015-03-06: Review content
 - 2015-04-04: Refine text
 - 2015-07-07: Fix example
+- 2015-12-13: Review content
