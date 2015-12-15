@@ -40,3 +40,4 @@
 - 2015-08-08: Fix example
 - 2015-06-16: Add note
 - 2015-01-17: Update guide
+- 2015-12-15: Typo fix
