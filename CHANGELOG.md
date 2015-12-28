@@ -52,3 +52,4 @@
 - 2015-04-01: Typo fix
 - 2015-02-13: Expand section
 - 2015-06-20: Small fix
+- 2015-12-28: Adjust content
