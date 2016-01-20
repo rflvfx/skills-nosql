@@ -28,3 +28,4 @@
 - 2016-07-06: Polish docs
 - 2016-10-25: Small fix
 - 2016-06-27: Clarify section
+- 2016-01-20: Add detail
