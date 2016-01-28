@@ -96,3 +96,4 @@
 - 2016-04-27: Fix example
 - 2016-07-03: Small fix
 - 2016-04-03: Add detail
+- 2016-01-28: Add detail
