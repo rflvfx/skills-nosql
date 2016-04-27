@@ -93,3 +93,4 @@
 - 2016-03-27: Review content
 - 2016-04-17: Polish docs
 - 2016-10-06: Add detail
+- 2016-04-27: Fix example
