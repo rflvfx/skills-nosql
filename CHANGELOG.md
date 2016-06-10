@@ -81,3 +81,4 @@
 - 2016-11-14: Add note
 - 2016-09-18: Update notes
 - 2016-11-24: Expand section
+- 2016-06-10: Add note
