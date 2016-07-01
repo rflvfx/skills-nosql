@@ -107,3 +107,4 @@
 - 2016-06-13: Fix example
 - 2016-09-15: Review content
 - 2016-01-05: Minor update
+- 2016-07-01: Update guide
