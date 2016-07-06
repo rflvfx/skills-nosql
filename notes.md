@@ -25,3 +25,4 @@
 - 2016-10-01: Update guide
 - 2016-05-06: Small fix
 - 2016-05-14: Small fix
+- 2016-07-06: Polish docs
