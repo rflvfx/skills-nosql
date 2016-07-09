@@ -110,3 +110,4 @@
 - 2016-07-01: Update guide
 - 2016-02-26: Small fix
 - 2016-08-12: Clarify section
+- 2016-07-09: Update notes
