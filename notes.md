@@ -17,3 +17,4 @@
 - 2016-04-08: Review content
 - 2016-11-19: Add detail
 - 2016-06-16: Add remark
+- 2016-07-14: Add remark
