@@ -83,3 +83,4 @@
 - 2016-11-24: Expand section
 - 2016-06-10: Add note
 - 2016-09-11: Update guide
+- 2016-08-01: Improve docs
