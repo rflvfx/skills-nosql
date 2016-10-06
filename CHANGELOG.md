@@ -92,3 +92,4 @@
 - 2016-06-15: Add note
 - 2016-03-27: Review content
 - 2016-04-17: Polish docs
+- 2016-10-06: Add detail
