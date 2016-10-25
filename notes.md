@@ -26,3 +26,4 @@
 - 2016-05-06: Small fix
 - 2016-05-14: Small fix
 - 2016-07-06: Polish docs
+- 2016-10-25: Small fix
