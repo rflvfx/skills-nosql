@@ -100,3 +100,4 @@
 - 2016-01-27: Review content
 - 2016-01-23: Minor update
 - 2016-09-23: Minor update
+- 2016-11-04: Add detail
