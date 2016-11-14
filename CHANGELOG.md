@@ -78,3 +78,4 @@
 - 2016-04-06: Refine text
 - 2016-03-17: Add detail
 - 2016-09-05: Add remark
+- 2016-11-14: Add note
