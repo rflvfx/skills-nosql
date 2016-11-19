@@ -15,3 +15,4 @@
 - 2015-12-13: Review content
 - 2015-10-18: Minor update
 - 2016-04-08: Review content
+- 2016-11-19: Add detail
