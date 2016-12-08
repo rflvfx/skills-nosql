@@ -103,3 +103,4 @@
 - 2016-11-04: Add detail
 - 2016-02-24: Adjust content
 - 2016-02-05: Refine text
+- 2016-12-08: Small fix
