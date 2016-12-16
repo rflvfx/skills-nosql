@@ -84,3 +84,4 @@
 - 2016-06-10: Add note
 - 2016-09-11: Update guide
 - 2016-08-01: Improve docs
+- 2016-12-16: Adjust content
