@@ -19,3 +19,4 @@
 - 2016-06-16: Add remark
 - 2016-07-14: Add remark
 - 2016-06-26: Typo fix
+- 2016-12-18: Adjust content
