@@ -121,3 +121,4 @@
 - 2017-01-13: Fix example
 - 2017-03-07: Update guide
 - 2017-04-25: Clarify section
+- 2017-01-17: Adjust content
