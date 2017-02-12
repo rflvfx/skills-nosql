@@ -30,3 +30,4 @@
 - 2016-06-27: Clarify section
 - 2016-01-20: Add detail
 - 2016-04-24: Improve docs
+- 2017-02-12: Fix example
