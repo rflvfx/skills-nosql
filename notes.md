@@ -40,3 +40,4 @@
 - 2017-04-08: Update guide
 - 2017-07-14: Fix example
 - 2017-12-13: Add remark
+- 2017-02-13: Minor update
