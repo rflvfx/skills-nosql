@@ -143,3 +143,4 @@
 - 2017-05-25: Adjust content
 - 2017-12-02: Fix example
 - 2017-01-04: Small fix
+- 2017-02-17: Polish docs
