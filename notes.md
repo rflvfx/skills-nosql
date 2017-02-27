@@ -33,3 +33,4 @@
 - 2017-02-12: Fix example
 - 2017-04-27: Add note
 - 2017-01-23: Clarify section
+- 2017-02-27: Small fix
