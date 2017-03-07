@@ -119,3 +119,4 @@
 - 2017-02-26: Polish docs
 - 2017-02-21: Update notes
 - 2017-01-13: Fix example
+- 2017-03-07: Update guide
