@@ -35,3 +35,4 @@
 - 2017-01-23: Clarify section
 - 2017-02-27: Small fix
 - 2017-11-23: Clarify section
+- 2017-04-15: Adjust content
