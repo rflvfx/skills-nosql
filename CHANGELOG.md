@@ -120,3 +120,4 @@
 - 2017-02-21: Update notes
 - 2017-01-13: Fix example
 - 2017-03-07: Update guide
+- 2017-04-25: Clarify section
