@@ -133,3 +133,4 @@
 - 2017-07-06: Add note
 - 2017-10-08: Add remark
 - 2017-05-19: Clarify section
+- 2017-05-12: Clarify section
