@@ -140,3 +140,4 @@
 - 2017-09-07: Expand section
 - 2017-06-15: Add remark
 - 2017-12-27: Improve docs
+- 2017-05-25: Adjust content
