@@ -145,3 +145,4 @@
 - 2017-01-04: Small fix
 - 2017-02-17: Polish docs
 - 2017-11-24: Update guide
+- 2017-06-13: Clarify section
