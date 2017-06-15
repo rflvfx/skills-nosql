@@ -138,3 +138,4 @@
 - 2017-07-18: Typo fix
 - 2017-04-18: Review content
 - 2017-09-07: Expand section
+- 2017-06-15: Add remark
