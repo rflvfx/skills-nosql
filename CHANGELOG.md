@@ -130,3 +130,4 @@
 - 2017-02-19: Add detail
 - 2017-01-27: Small fix
 - 2017-07-10: Add note
+- 2017-07-06: Add note
