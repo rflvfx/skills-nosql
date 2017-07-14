@@ -38,3 +38,4 @@
 - 2017-04-15: Adjust content
 - 2017-09-21: Improve docs
 - 2017-04-08: Update guide
+- 2017-07-14: Fix example
