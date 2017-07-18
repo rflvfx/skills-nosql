@@ -135,3 +135,4 @@
 - 2017-05-19: Clarify section
 - 2017-05-12: Clarify section
 - 2017-11-19: Small fix
+- 2017-07-18: Typo fix
