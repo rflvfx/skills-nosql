@@ -155,3 +155,4 @@
 - 2017-05-04: Add note
 - 2017-03-16: Add detail
 - 2017-12-16: Update notes
+- 2017-08-12: Typo fix
