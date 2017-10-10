@@ -124,3 +124,4 @@
 - 2017-01-17: Adjust content
 - 2017-07-05: Polish docs
 - 2017-04-12: Review content
+- 2017-10-10: Adjust content
