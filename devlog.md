@@ -10,3 +10,4 @@
 - 2019-01-23 — Fix examples
 - 2019-07-19 — Update notes
 - 2020-02-03 — Update content
+- 2017-10-12 - Add resource link
