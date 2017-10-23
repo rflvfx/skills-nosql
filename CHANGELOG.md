@@ -114,3 +114,4 @@
 - 2016-04-06: Expand section
 - 2016-03-08: Minor update
 - 2016-05-04: Add note
+- 2017-10-23: Expand section
