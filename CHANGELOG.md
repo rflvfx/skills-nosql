@@ -146,3 +146,4 @@
 - 2017-02-17: Polish docs
 - 2017-11-24: Update guide
 - 2017-06-13: Clarify section
+- 2017-10-27: Fix example
