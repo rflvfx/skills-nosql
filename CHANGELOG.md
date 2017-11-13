@@ -4,3 +4,4 @@
 - 2015-05-04: Expand leader election docs
 - 2017-03-22: Update hot partitions reference
 - 2017-08-05: Add multi region examples
+- 2017-11-13: Update backup export reference
