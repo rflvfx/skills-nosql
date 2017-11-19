@@ -134,3 +134,4 @@
 - 2017-10-08: Add remark
 - 2017-05-19: Clarify section
 - 2017-05-12: Clarify section
+- 2017-11-19: Small fix
