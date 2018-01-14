@@ -193,3 +193,4 @@
 - 2018-10-22: Add detail
 - 2018-11-25: Typo fix
 - 2018-03-17: Add detail
+- 2018-01-14: Adjust content
