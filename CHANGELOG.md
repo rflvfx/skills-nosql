@@ -158,3 +158,4 @@
 - 2017-08-12: Typo fix
 - 2018-01-07: Refine text
 - 2018-07-24: Update guide
+- 2018-01-28: Update notes
