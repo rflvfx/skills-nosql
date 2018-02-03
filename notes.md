@@ -49,3 +49,4 @@
 - 2018-07-24: Improve docs
 - 2018-08-13: Add remark
 - 2018-07-07: Polish docs
+- 2018-02-03: Add note
