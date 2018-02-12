@@ -41,3 +41,4 @@
 - 2017-07-14: Fix example
 - 2017-12-13: Add remark
 - 2017-02-13: Minor update
+- 2018-02-12: Fix example
