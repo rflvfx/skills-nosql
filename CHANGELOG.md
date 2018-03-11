@@ -169,3 +169,4 @@
 - 2018-08-23: Add note
 - 2018-08-06: Fix example
 - 2018-12-21: Typo fix
+- 2018-03-11: Small fix
