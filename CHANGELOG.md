@@ -161,3 +161,4 @@
 - 2018-01-28: Update notes
 - 2018-04-20: Typo fix
 - 2018-11-14: Minor update
+- 2018-04-24: Small fix
