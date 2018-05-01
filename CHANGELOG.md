@@ -6,3 +6,4 @@
 - 2017-08-05: Add multi region examples
 - 2017-11-13: Update backup export reference
 - 2018-02-10: Expand failure handling docs
+- 2018-05-01: Improve vendor comparison coverage
