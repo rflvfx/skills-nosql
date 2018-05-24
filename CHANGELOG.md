@@ -180,3 +180,4 @@
 - 2018-06-18: Polish docs
 - 2018-09-24: Update notes
 - 2018-04-20: Add remark
+- 2018-05-24: Review content
