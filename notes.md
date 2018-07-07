@@ -48,3 +48,4 @@
 - 2018-07-15: Clarify section
 - 2018-07-24: Improve docs
 - 2018-08-13: Add remark
+- 2018-07-07: Polish docs
