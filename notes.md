@@ -45,3 +45,4 @@
 - 2018-04-11: Add detail
 - 2018-08-10: Update guide
 - 2018-02-08: Review content
+- 2018-07-15: Clarify section
