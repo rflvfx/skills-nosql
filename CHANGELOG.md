@@ -7,3 +7,4 @@
 - 2017-11-13: Update backup export reference
 - 2018-02-10: Expand failure handling docs
 - 2018-05-01: Improve vendor comparison coverage
+- 2018-07-26: Expand data modeling docs
