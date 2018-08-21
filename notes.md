@@ -52,3 +52,4 @@
 - 2018-02-03: Add note
 - 2018-03-04: Typo fix
 - 2018-12-28: Refine text
+- 2018-08-21: Adjust content
