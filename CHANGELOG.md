@@ -178,3 +178,4 @@
 - 2018-10-22: Refine text
 - 2018-07-24: Review content
 - 2018-06-18: Polish docs
+- 2018-09-24: Update notes
