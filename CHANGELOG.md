@@ -181,3 +181,4 @@
 - 2018-09-24: Update notes
 - 2018-04-20: Add remark
 - 2018-05-24: Review content
+- 2018-10-06: Adjust content
