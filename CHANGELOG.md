@@ -190,3 +190,4 @@
 - 2018-02-27: Clarify section
 - 2018-06-02: Update notes
 - 2018-05-03: Expand section
+- 2018-10-22: Add detail
