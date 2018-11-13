@@ -174,3 +174,4 @@
 - 2018-08-01: Review content
 - 2018-02-08: Add note
 - 2018-07-24: Update notes
+- 2018-11-13: Update guide
