@@ -1,2 +1,3 @@
 - 2015-02-03: Review and cleanup (skills-nosql)
 - 2018-01-24: Review and cleanup (skills-nosql)
+- 2018-11-21: Update study notes (skills-nosql)
