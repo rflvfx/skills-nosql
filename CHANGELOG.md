@@ -195,3 +195,4 @@
 - 2018-03-17: Add detail
 - 2018-01-14: Adjust content
 - 2018-12-07: Refine text
+- 2018-11-28: Review content
