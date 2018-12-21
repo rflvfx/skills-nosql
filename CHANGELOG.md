@@ -168,3 +168,4 @@
 - 2018-08-05: Update notes
 - 2018-08-23: Add note
 - 2018-08-06: Fix example
+- 2018-12-21: Typo fix
