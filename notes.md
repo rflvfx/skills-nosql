@@ -51,3 +51,4 @@
 - 2018-07-07: Polish docs
 - 2018-02-03: Add note
 - 2018-03-04: Typo fix
+- 2018-12-28: Refine text
