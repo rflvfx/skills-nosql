@@ -8,3 +8,4 @@
 - 2018-02-10: Expand failure handling docs
 - 2018-05-01: Improve vendor comparison coverage
 - 2018-07-26: Expand data modeling docs
+- 2019-03-07: Add denormalization examples
