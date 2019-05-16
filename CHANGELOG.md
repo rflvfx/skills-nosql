@@ -236,3 +236,4 @@
 - 2019-05-23: Add note
 - 2019-11-01: Review content
 - 2019-01-08: Improve docs
+- 2019-05-16: Fix example
