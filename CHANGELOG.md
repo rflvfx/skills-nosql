@@ -233,3 +233,4 @@
 - 2019-11-12: Clarify section
 - 2019-06-25: Review content
 - 2019-12-17: Polish docs
+- 2019-05-23: Add note
