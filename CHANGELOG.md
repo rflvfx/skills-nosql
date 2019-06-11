@@ -228,3 +228,4 @@
 - 2019-07-13: Review content
 - 2019-09-02: Review content
 - 2019-04-09: Fix example
+- 2019-06-11: Update notes
