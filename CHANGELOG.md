@@ -223,3 +223,4 @@
 - 2019-04-27: Add note
 - 2019-08-19: Refine text
 - 2019-07-06: Add remark
+- 2019-06-13: Minor update
