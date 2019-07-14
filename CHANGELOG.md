@@ -204,3 +204,4 @@
 - 2019-10-28: Typo fix
 - 2019-08-16: Add detail
 - 2019-02-12: Clarify section
+- 2019-07-14: Add note
