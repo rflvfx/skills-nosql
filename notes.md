@@ -61,3 +61,4 @@
 - 2019-09-20: Polish docs
 - 2019-03-02: Clarify section
 - 2019-12-01: Review content
+- 2019-08-18: Adjust content
