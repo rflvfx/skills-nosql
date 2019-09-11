@@ -238,3 +238,4 @@
 - 2019-01-08: Improve docs
 - 2019-05-16: Fix example
 - 2019-08-09: Update guide
+- 2019-09-11: Polish docs
