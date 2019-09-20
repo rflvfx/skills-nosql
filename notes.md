@@ -58,3 +58,4 @@
 - 2019-06-17: Update guide
 - 2019-08-28: Refine text
 - 2019-11-17: Improve docs
+- 2019-09-20: Polish docs
