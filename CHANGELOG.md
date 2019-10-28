@@ -201,3 +201,4 @@
 - 2019-09-09: Update notes
 - 2019-09-09: Add remark
 - 2019-12-10: Expand section
+- 2019-10-28: Typo fix
