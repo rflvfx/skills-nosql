@@ -11,3 +11,4 @@
 - 2019-03-07: Add denormalization examples
 - 2019-05-27: Add eventual reads notes
 - 2019-09-03: Refine leader election guide
+- 2019-11-14: Expand write quorums docs
