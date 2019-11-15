@@ -210,3 +210,4 @@
 - 2019-02-22: Refine text
 - 2019-12-07: Add note
 - 2019-12-19: Fix example
+- 2019-11-15: Review content
