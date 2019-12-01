@@ -60,3 +60,4 @@
 - 2019-11-17: Improve docs
 - 2019-09-20: Polish docs
 - 2019-03-02: Clarify section
+- 2019-12-01: Review content
