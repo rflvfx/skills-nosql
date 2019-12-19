@@ -209,3 +209,4 @@
 - 2019-01-03: Add detail
 - 2019-02-22: Refine text
 - 2019-12-07: Add note
+- 2019-12-19: Fix example
