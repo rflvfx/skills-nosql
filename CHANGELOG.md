@@ -243,3 +243,4 @@
 - 2020-12-20: Clarify section
 - 2020-09-25: Typo fix
 - 2020-02-15: Small fix
+- 2020-01-06: Review content
