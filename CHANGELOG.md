@@ -249,3 +249,4 @@
 - 2020-04-20: Fix example
 - 2020-04-16: Small fix
 - 2020-02-06: Clarify section
+- 2020-02-16: Add detail
