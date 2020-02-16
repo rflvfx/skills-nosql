@@ -69,3 +69,4 @@
 - 2020-01-27: Add remark
 - 2020-12-03: Add note
 - 2020-10-26: Add detail
+- 2020-02-16: Add detail
