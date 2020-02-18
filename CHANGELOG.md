@@ -253,3 +253,4 @@
 - 2020-12-02: Clarify section
 - 2020-08-17: Fix example
 - 2020-02-01: Add remark
+- 2020-02-18: Fix example
