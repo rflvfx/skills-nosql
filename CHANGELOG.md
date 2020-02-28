@@ -267,3 +267,4 @@
 - 2020-05-03: Clarify section
 - 2020-01-13: Update guide
 - 2020-11-24: Add detail
+- 2020-02-28: Adjust content
