@@ -71,3 +71,4 @@
 - 2020-10-26: Add detail
 - 2020-02-16: Add detail
 - 2020-02-10: Refine text
+- 2020-04-02: Typo fix
