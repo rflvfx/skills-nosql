@@ -247,3 +247,4 @@
 - 2020-03-28: Refine text
 - 2020-04-13: Adjust content
 - 2020-04-20: Fix example
+- 2020-04-16: Small fix
