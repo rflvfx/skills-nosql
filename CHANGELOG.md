@@ -262,3 +262,4 @@
 - 2020-11-11: Typo fix
 - 2020-02-09: Update notes
 - 2020-01-14: Expand section
+- 2020-05-03: Add detail
