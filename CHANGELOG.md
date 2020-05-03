@@ -264,3 +264,4 @@
 - 2020-01-14: Expand section
 - 2020-05-03: Add detail
 - 2020-06-17: Update guide
+- 2020-05-03: Clarify section
