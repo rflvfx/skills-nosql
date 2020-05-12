@@ -13,3 +13,4 @@
 - 2019-09-03: Refine leader election guide
 - 2019-11-14: Expand write quorums docs
 - 2020-02-23: Document merkle trees
+- 2020-05-12: Refine gossip protocol guide
