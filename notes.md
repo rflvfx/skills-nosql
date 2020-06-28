@@ -64,3 +64,4 @@
 - 2019-08-18: Adjust content
 - 2019-04-26: Add note
 - 2019-09-22: Polish docs
+- 2020-06-28: Small fix
