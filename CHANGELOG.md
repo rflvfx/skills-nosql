@@ -271,3 +271,4 @@
 - 2020-01-18: Update notes
 - 2020-07-17: Refine text
 - 2020-08-01: Update notes
+- 2020-09-21: Adjust content
