@@ -241,3 +241,4 @@
 - 2019-09-11: Polish docs
 - 2020-08-16: Add detail
 - 2020-12-20: Clarify section
+- 2020-09-25: Typo fix
