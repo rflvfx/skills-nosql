@@ -75,3 +75,4 @@
 - 2020-02-26: Typo fix
 - 2020-05-07: Add remark
 - 2020-09-24: Adjust content
+- 2020-11-20: Improve docs
