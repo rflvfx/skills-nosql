@@ -67,3 +67,4 @@
 - 2020-06-28: Small fix
 - 2020-12-07: Add detail
 - 2020-01-27: Add remark
+- 2020-12-03: Add note
