@@ -278,3 +278,4 @@
 - 2020-05-22: Update notes
 - 2020-12-23: Update notes
 - 2020-12-12: Add detail
+- 2020-12-24: Update notes
