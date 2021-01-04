@@ -294,3 +294,4 @@
 - 2021-11-06: Clarify section
 - 2021-10-26: Add remark
 - 2021-02-07: Expand section
+- 2021-01-04: Small fix
