@@ -285,3 +285,4 @@
 - 2021-03-26: Clarify section
 - 2021-09-18: Clarify section
 - 2021-11-06: Adjust content
+- 2021-01-09: Adjust content
