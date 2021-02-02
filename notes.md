@@ -87,3 +87,4 @@
 - 2021-03-21: Update guide
 - 2021-10-13: Expand section
 - 2021-06-07: Clarify section
+- 2021-02-02: Polish docs
