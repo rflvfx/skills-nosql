@@ -77,3 +77,4 @@
 - 2020-09-24: Adjust content
 - 2020-11-20: Improve docs
 - 2020-10-15: Add remark
+- 2021-02-15: Polish docs
