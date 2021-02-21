@@ -11,3 +11,4 @@
 - 2019-07-19 — Update notes
 - 2020-02-03 — Update content
 - 2017-10-12 - Add resource link
+- 2021-02-21 - Update study notes
