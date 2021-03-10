@@ -318,3 +318,4 @@
 - 2021-10-25: Fix example
 - 2021-03-27: Typo fix
 - 2021-07-05: Typo fix
+- 2021-03-10: Improve docs
