@@ -84,3 +84,4 @@
 - 2021-11-16: Add detail
 - 2021-07-01: Refine text
 - 2021-08-25: Update notes
+- 2021-03-21: Update guide
