@@ -90,3 +90,4 @@
 - 2021-02-02: Polish docs
 - 2021-04-24: Update guide
 - 2021-07-14: Adjust content
+- 2021-05-01: Clarify section
