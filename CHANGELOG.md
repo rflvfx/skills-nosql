@@ -312,3 +312,4 @@
 - 2021-01-26: Add note
 - 2021-09-14: Improve docs
 - 2021-01-13: Polish docs
+- 2021-07-13: Update notes
