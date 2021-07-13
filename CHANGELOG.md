@@ -305,3 +305,4 @@
 - 2021-10-01: Typo fix
 - 2021-04-10: Add detail
 - 2021-03-27: Add remark
+- 2021-07-13: Update guide
