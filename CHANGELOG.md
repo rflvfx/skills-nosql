@@ -308,3 +308,4 @@
 - 2021-07-13: Update guide
 - 2021-03-26: Clarify section
 - 2021-03-15: Expand section
+- 2021-08-09: Polish docs
