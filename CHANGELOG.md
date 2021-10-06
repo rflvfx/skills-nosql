@@ -15,3 +15,4 @@
 - 2020-02-23: Document merkle trees
 - 2020-05-12: Refine gossip protocol guide
 - 2020-07-19: Review ttl patterns section
+- 2021-10-06: Add backup export examples
