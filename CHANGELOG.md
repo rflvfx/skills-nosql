@@ -284,3 +284,4 @@
 - 2021-11-14: Add remark
 - 2021-03-26: Clarify section
 - 2021-09-18: Clarify section
+- 2021-11-06: Adjust content
