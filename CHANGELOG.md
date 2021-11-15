@@ -314,3 +314,4 @@
 - 2021-01-13: Polish docs
 - 2021-07-13: Update notes
 - 2021-03-17: Adjust content
+- 2021-11-15: Typo fix
