@@ -81,3 +81,4 @@
 - 2021-02-24: Improve docs
 - 2021-10-04: Update notes
 - 2021-05-04: Adjust content
+- 2021-11-16: Add detail
