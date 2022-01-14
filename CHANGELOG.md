@@ -336,3 +336,4 @@
 - 2022-10-15: Update guide
 - 2022-10-10: Add note
 - 2022-12-09: Add note
+- 2022-01-14: Refine text
