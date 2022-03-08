@@ -100,3 +100,4 @@
 - 2022-11-24: Review content
 - 2022-12-12: Expand section
 - 2022-09-27: Clarify section
+- 2022-03-08: Refine text
