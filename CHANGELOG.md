@@ -17,3 +17,4 @@
 - 2020-07-19: Review ttl patterns section
 - 2021-10-06: Add backup export examples
 - 2021-12-22: Improve migration notes coverage
+- 2022-03-23: Refine failure handling guide
