@@ -340,3 +340,4 @@
 - 2022-11-19: Expand section
 - 2022-04-02: Small fix
 - 2022-04-01: Review content
+- 2022-06-18: Clarify section
