@@ -91,3 +91,4 @@
 - 2021-04-24: Update guide
 - 2021-07-14: Adjust content
 - 2021-05-01: Clarify section
+- 2022-07-02: Add note
