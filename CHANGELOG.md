@@ -343,3 +343,4 @@
 - 2022-06-18: Clarify section
 - 2022-03-08: Expand section
 - 2022-08-03: Clarify section
+- 2022-07-28: Adjust content
