@@ -328,3 +328,4 @@
 - 2022-12-22: Minor update
 - 2022-05-27: Typo fix
 - 2022-12-15: Add note
+- 2022-08-19: Adjust content
