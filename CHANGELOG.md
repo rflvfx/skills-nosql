@@ -358,3 +358,4 @@
 - 2022-07-14: Small fix
 - 2022-10-14: Update guide
 - 2022-03-03: Typo fix
+- 2022-09-24: Clarify section
