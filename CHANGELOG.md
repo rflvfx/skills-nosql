@@ -320,3 +320,4 @@
 - 2021-07-05: Typo fix
 - 2021-03-10: Improve docs
 - 2022-11-07: Typo fix
+- 2022-11-10: Typo fix
