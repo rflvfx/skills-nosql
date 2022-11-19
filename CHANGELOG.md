@@ -337,3 +337,4 @@
 - 2022-10-10: Add note
 - 2022-12-09: Add note
 - 2022-01-14: Refine text
+- 2022-11-19: Expand section
