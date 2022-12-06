@@ -348,3 +348,4 @@
 - 2022-01-18: Minor update
 - 2022-05-09: Add remark
 - 2022-12-03: Minor update
+- 2022-12-06: Fix example
