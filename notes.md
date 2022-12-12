@@ -98,3 +98,4 @@
 - 2022-03-02: Small fix
 - 2022-09-26: Improve docs
 - 2022-11-24: Review content
+- 2022-12-12: Expand section
