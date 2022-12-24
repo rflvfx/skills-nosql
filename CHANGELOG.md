@@ -329,3 +329,4 @@
 - 2022-05-27: Typo fix
 - 2022-12-15: Add note
 - 2022-08-19: Adjust content
+- 2022-12-24: Small fix
