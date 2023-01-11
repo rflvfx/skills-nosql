@@ -111,3 +111,4 @@
 - 2023-10-03: Expand section
 - 2023-05-03: Refine text
 - 2023-03-25: Clarify section
+- 2023-01-11: Polish docs
