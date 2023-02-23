@@ -379,3 +379,4 @@
 - 2023-08-22: Refine text
 - 2023-02-19: Small fix
 - 2023-03-12: Expand section
+- 2023-02-23: Clarify section
