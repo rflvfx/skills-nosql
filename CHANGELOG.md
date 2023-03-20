@@ -19,3 +19,4 @@
 - 2021-12-22: Improve migration notes coverage
 - 2022-03-23: Refine failure handling guide
 - 2022-05-26: Add vendor comparison examples
+- 2023-03-20: Expand denormalization docs
