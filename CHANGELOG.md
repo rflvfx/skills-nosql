@@ -394,3 +394,4 @@
 - 2023-02-22: Polish docs
 - 2023-12-16: Add note
 - 2023-10-05: Refine text
+- 2023-04-17: Clarify section
