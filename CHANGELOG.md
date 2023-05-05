@@ -374,3 +374,4 @@
 - 2023-09-20: Improve docs
 - 2023-06-22: Fix example
 - 2023-08-13: Review content
+- 2023-05-05: Typo fix
