@@ -376,3 +376,4 @@
 - 2023-08-13: Review content
 - 2023-05-05: Typo fix
 - 2023-01-12: Add remark
+- 2023-08-22: Refine text
