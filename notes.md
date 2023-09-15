@@ -117,3 +117,4 @@
 - 2023-12-21: Polish docs
 - 2023-04-03: Refine text
 - 2023-05-05: Add note
+- 2023-09-15: Add note
