@@ -363,3 +363,4 @@
 - 2022-06-27: Review content
 - 2023-08-22: Clarify section
 - 2023-03-10: Add note
+- 2023-11-28: Add detail
