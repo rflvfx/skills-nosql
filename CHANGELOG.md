@@ -392,3 +392,4 @@
 - 2023-05-19: Add remark
 - 2023-11-04: Fix example
 - 2023-02-22: Polish docs
+- 2023-12-16: Add note
