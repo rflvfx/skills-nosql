@@ -425,3 +425,4 @@
 - 2024-02-23: Adjust content
 - 2024-12-19: Minor update
 - 2024-12-20: Refine text
+- 2024-01-10: Adjust content
