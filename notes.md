@@ -127,3 +127,4 @@
 - 2024-04-08: Polish docs
 - 2024-08-23: Clarify section
 - 2024-08-20: Refine text
+- 2024-02-14: Adjust content
