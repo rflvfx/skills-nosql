@@ -422,3 +422,4 @@
 - 2024-08-08: Fix example
 - 2024-12-09: Refine text
 - 2024-06-06: Add detail
+- 2024-02-23: Adjust content
