@@ -28,3 +28,4 @@
 - 2026-03-16: Refine capacity planning guide
 - 2026-09-14: Expand vendor comparison docs
 - 2026-10-13: Improve data modeling coverage
+- 2024-03-26: Improve denormalization coverage
