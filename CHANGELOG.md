@@ -408,3 +408,4 @@
 - 2024-06-02: Add remark
 - 2024-01-06: Polish docs
 - 2024-08-02: Update guide
+- 2024-05-18: Add note
