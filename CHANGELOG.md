@@ -439,3 +439,4 @@
 - 2024-01-15: Add note
 - 2024-11-13: Add remark
 - 2024-11-25: Polish docs
+- 2024-06-12: Adjust content
