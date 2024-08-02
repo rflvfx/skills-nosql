@@ -407,3 +407,4 @@
 - 2024-09-10: Review content
 - 2024-06-02: Add remark
 - 2024-01-06: Polish docs
+- 2024-08-02: Update guide
