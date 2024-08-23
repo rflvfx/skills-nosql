@@ -125,3 +125,4 @@
 - 2024-07-10: Improve docs
 - 2024-08-14: Minor update
 - 2024-04-08: Polish docs
+- 2024-08-23: Clarify section
