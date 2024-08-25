@@ -410,3 +410,4 @@
 - 2024-08-02: Update guide
 - 2024-05-18: Add note
 - 2024-12-10: Update guide
+- 2024-08-25: Add detail
