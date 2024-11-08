@@ -415,3 +415,4 @@
 - 2024-02-06: Fix example
 - 2024-08-20: Review content
 - 2024-11-07: Add detail
+- 2024-11-08: Minor update
