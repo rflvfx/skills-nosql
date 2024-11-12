@@ -30,3 +30,4 @@
 - 2026-10-13: Improve data modeling coverage
 - 2024-03-26: Improve denormalization coverage
 - 2024-07-02: Refine eventual reads guide
+- 2024-11-12: Review leader election section
