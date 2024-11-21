@@ -135,3 +135,4 @@
 - 2024-04-27: Improve docs
 - 2024-12-08: Expand section
 - 2024-11-05: Update notes
+- 2024-11-21: Polish docs
