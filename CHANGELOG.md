@@ -432,3 +432,4 @@
 - 2024-10-07: Improve docs
 - 2024-06-05: Expand section
 - 2024-09-11: Refine text
+- 2024-11-28: Update notes
