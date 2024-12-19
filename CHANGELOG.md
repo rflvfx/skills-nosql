@@ -423,3 +423,4 @@
 - 2024-12-09: Refine text
 - 2024-06-06: Add detail
 - 2024-02-23: Adjust content
+- 2024-12-19: Minor update
