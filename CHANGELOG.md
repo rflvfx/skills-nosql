@@ -31,3 +31,4 @@
 - 2024-03-26: Improve denormalization coverage
 - 2024-07-02: Refine eventual reads guide
 - 2024-11-12: Review leader election section
+- 2025-01-20: Add write quorums notes
