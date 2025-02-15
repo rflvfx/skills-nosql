@@ -148,3 +148,4 @@
 - 2025-01-20: Small fix
 - 2025-01-02: Polish docs
 - 2025-07-20: Add remark
+- 2025-02-15: Adjust content
