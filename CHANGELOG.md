@@ -460,3 +460,4 @@
 - 2025-01-03: Improve docs
 - 2025-09-11: Typo fix
 - 2025-01-26: Add detail
+- 2025-05-09: Polish docs
