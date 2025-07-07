@@ -33,3 +33,4 @@
 - 2024-11-12: Review leader election section
 - 2025-01-20: Add write quorums notes
 - 2025-02-20: Update merkle trees reference
+- 2025-07-07: Add gossip protocol notes
