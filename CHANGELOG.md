@@ -22,3 +22,4 @@
 - 2023-03-20: Expand denormalization docs
 - 2023-06-27: Refine eventual reads guide
 - 2023-07-05: Refine leader election guide
+- 2025-08-02: Expand multi region docs
