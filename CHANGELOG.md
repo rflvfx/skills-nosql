@@ -446,3 +446,4 @@
 - 2025-11-04: Expand section
 - 2025-03-24: Polish docs
 - 2025-01-07: Update notes
+- 2025-08-04: Typo fix
