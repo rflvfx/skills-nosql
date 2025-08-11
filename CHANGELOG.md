@@ -479,3 +479,4 @@
 - 2025-06-08: Polish docs
 - 2025-07-26: Typo fix
 - 2025-03-16: Typo fix
+- 2025-08-11: Small fix
