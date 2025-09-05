@@ -470,3 +470,4 @@
 - 2025-09-13: Refine text
 - 2025-11-26: Small fix
 - 2025-10-11: Improve docs
+- 2025-09-05: Clarify section
