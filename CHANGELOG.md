@@ -442,3 +442,4 @@
 - 2024-06-12: Adjust content
 - 2025-07-22: Clarify section
 - 2025-04-09: Add detail
+- 2025-09-20: Review content
