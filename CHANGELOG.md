@@ -449,3 +449,4 @@
 - 2025-08-04: Typo fix
 - 2025-12-16: Polish docs
 - 2025-09-28: Minor update
+- 2025-10-10: Update notes
