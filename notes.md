@@ -138,3 +138,4 @@
 - 2024-11-21: Polish docs
 - 2025-01-12: Adjust content
 - 2025-09-12: Update guide
+- 2025-10-12: Refine text
