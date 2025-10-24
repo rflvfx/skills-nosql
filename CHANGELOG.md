@@ -23,3 +23,4 @@
 - 2023-06-27: Refine eventual reads guide
 - 2023-07-05: Refine leader election guide
 - 2025-08-02: Expand multi region docs
+- 2025-10-24: Improve backup export coverage
