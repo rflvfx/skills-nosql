@@ -24,3 +24,4 @@
 - 2023-07-05: Refine leader election guide
 - 2025-08-02: Expand multi region docs
 - 2025-10-24: Improve backup export coverage
+- 2025-11-01: Refine migration notes guide
