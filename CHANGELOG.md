@@ -454,3 +454,4 @@
 - 2025-10-17: Refine text
 - 2025-09-13: Update notes
 - 2025-02-17: Review content
+- 2025-11-06: Improve docs
