@@ -142,3 +142,4 @@
 - 2025-10-16: Improve docs
 - 2025-02-25: Update notes
 - 2025-12-15: Add detail
+- 2025-11-14: Expand section
