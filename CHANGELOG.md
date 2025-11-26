@@ -468,3 +468,4 @@
 - 2025-01-03: Polish docs
 - 2025-06-28: Add detail
 - 2025-09-13: Refine text
+- 2025-11-26: Small fix
