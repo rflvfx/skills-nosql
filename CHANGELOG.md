@@ -471,3 +471,4 @@
 - 2025-11-26: Small fix
 - 2025-10-11: Improve docs
 - 2025-09-05: Clarify section
+- 2025-12-14: Add note
