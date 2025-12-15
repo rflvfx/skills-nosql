@@ -141,3 +141,4 @@
 - 2025-10-12: Refine text
 - 2025-10-16: Improve docs
 - 2025-02-25: Update notes
+- 2025-12-15: Add detail
