@@ -472,3 +472,4 @@
 - 2025-10-11: Improve docs
 - 2025-09-05: Clarify section
 - 2025-12-14: Add note
+- 2025-12-17: Add remark
