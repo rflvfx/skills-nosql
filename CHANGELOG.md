@@ -474,3 +474,4 @@
 - 2025-12-14: Add note
 - 2025-12-17: Add remark
 - 2025-10-21: Typo fix
+- 2025-12-28: Adjust content
