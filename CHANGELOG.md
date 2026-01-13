@@ -508,3 +508,4 @@
 - 2026-10-28: Update guide
 - 2026-07-26: Update guide
 - 2026-05-24: Minor update
+- 2026-01-13: Expand section
