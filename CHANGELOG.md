@@ -498,3 +498,4 @@
 - 2026-03-28: Add detail
 - 2026-02-21: Add remark
 - 2026-01-13: Add detail
+- 2026-02-04: Expand section
