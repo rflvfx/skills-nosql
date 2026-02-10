@@ -490,3 +490,4 @@
 - 2026-08-14: Refine text
 - 2026-05-13: Refine text
 - 2026-03-22: Clarify section
+- 2026-02-10: Expand section
