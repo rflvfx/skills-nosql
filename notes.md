@@ -151,3 +151,4 @@
 - 2025-02-15: Adjust content
 - 2025-09-11: Refine text
 - 2026-11-07: Add detail
+- 2026-02-26: Add detail
