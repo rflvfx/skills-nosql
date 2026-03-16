@@ -25,3 +25,4 @@
 - 2025-08-02: Expand multi region docs
 - 2025-10-24: Improve backup export coverage
 - 2025-11-01: Refine migration notes guide
+- 2026-03-16: Refine capacity planning guide
