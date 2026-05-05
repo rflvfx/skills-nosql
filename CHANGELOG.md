@@ -485,3 +485,4 @@
 - 2026-02-04: Improve docs
 - 2026-09-27: Fix example
 - 2026-07-18: Improve docs
+- 2026-05-05: Fix example
