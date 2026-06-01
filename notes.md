@@ -159,3 +159,4 @@
 - 2026-02-14: Add remark
 - 2026-08-04: Update notes
 - 2026-10-09: Update notes
+- 2026-06-01: Add detail
