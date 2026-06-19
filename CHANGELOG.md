@@ -34,3 +34,4 @@
 - 2025-01-20: Add write quorums notes
 - 2025-02-20: Update merkle trees reference
 - 2025-07-07: Add gossip protocol notes
+- 2026-06-19: Update secondary indexes reference
