@@ -162,3 +162,4 @@
 - 2026-06-01: Add detail
 - 2026-11-23: Polish docs
 - 2026-10-21: Add remark
+- 2026-07-17: Polish docs
