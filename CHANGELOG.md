@@ -506,3 +506,4 @@
 - 2026-11-14: Refine text
 - 2026-07-13: Small fix
 - 2026-10-28: Update guide
+- 2026-07-26: Update guide
