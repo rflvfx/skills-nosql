@@ -166,3 +166,4 @@
 - 2026-04-20: Add detail
 - 2026-05-15: Improve docs
 - 2026-06-15: Add remark
+- 2026-09-01: Clarify section
