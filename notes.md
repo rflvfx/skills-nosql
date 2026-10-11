@@ -153,3 +153,4 @@
 - 2026-11-07: Add detail
 - 2026-02-26: Add detail
 - 2026-11-01: Refine text
+- 2026-10-11: Add remark
