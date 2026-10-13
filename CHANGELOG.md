@@ -27,3 +27,4 @@
 - 2025-11-01: Refine migration notes guide
 - 2026-03-16: Refine capacity planning guide
 - 2026-09-14: Expand vendor comparison docs
+- 2026-10-13: Improve data modeling coverage
